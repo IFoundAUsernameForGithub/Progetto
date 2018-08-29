@@ -1,0 +1,152 @@
+
+pack5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Medaglione
+  rotate: false
+  xy: 0, 1378
+  size: 684, 682
+  orig: 684, 682
+  offset: 0, 0
+  index: -1
+TestoAcquaAcceso
+  rotate: false
+  xy: 0, 694
+  size: 684, 682
+  orig: 684, 682
+  offset: 0, 0
+  index: -1
+TestoAcquaSpento
+  rotate: false
+  xy: 686, 1378
+  size: 684, 682
+  orig: 684, 682
+  offset: 0, 0
+  index: -1
+TestoAriaAcceso
+  rotate: false
+  xy: 0, 10
+  size: 684, 682
+  orig: 684, 682
+  offset: 0, 0
+  index: -1
+TestoAriaSpento
+  rotate: false
+  xy: 686, 694
+  size: 684, 682
+  orig: 684, 682
+  offset: 0, 0
+  index: -1
+TestoFuocoAcceso
+  rotate: false
+  xy: 1372, 1378
+  size: 684, 682
+  orig: 684, 682
+  offset: 0, 0
+  index: -1
+TestoFuocoSpento
+  rotate: false
+  xy: 686, 10
+  size: 684, 682
+  orig: 684, 682
+  offset: 0, 0
+  index: -1
+TestoTempoAcceso
+  rotate: false
+  xy: 1372, 694
+  size: 684, 682
+  orig: 684, 682
+  offset: 0, 0
+  index: -1
+TestoTempoSpento
+  rotate: false
+  xy: 2058, 1378
+  size: 684, 682
+  orig: 684, 682
+  offset: 0, 0
+  index: -1
+TestoTerraAcceso
+  rotate: false
+  xy: 1372, 10
+  size: 684, 682
+  orig: 684, 682
+  offset: 0, 0
+  index: -1
+TestoTerraSpento
+  rotate: false
+  xy: 2058, 694
+  size: 684, 682
+  orig: 684, 682
+  offset: 0, 0
+  index: -1
+SimboloTempoSpento
+  rotate: false
+  xy: 2058, 490
+  size: 203, 202
+  orig: 203, 202
+  offset: 0, 0
+  index: -1
+SimboloTempoAcceso
+  rotate: false
+  xy: 2263, 497
+  size: 204, 195
+  orig: 204, 195
+  offset: 0, 0
+  index: -1
+SimboloAcquaAcceso
+  rotate: false
+  xy: 2058, 298
+  size: 157, 190
+  orig: 157, 190
+  offset: 0, 0
+  index: -1
+SimboloAcquaSpento
+  rotate: false
+  xy: 2469, 531
+  size: 146, 161
+  orig: 146, 161
+  offset: 0, 0
+  index: -1
+SimboloFuocoAcceso
+  rotate: false
+  xy: 2058, 151
+  size: 148, 145
+  orig: 148, 145
+  offset: 0, 0
+  index: -1
+SimboloAriaAcceso
+  rotate: false
+  xy: 2058, 0
+  size: 141, 149
+  orig: 141, 149
+  offset: 0, 0
+  index: -1
+SimboloFuocoSpento
+  rotate: false
+  xy: 2469, 400
+  size: 162, 129
+  orig: 162, 129
+  offset: 0, 0
+  index: -1
+SimboloAriaSpento
+  rotate: false
+  xy: 2217, 362
+  size: 144, 126
+  orig: 144, 126
+  offset: 0, 0
+  index: -1
+SimboloTerraAcceso
+  rotate: false
+  xy: 2217, 234
+  size: 150, 126
+  orig: 150, 126
+  offset: 0, 0
+  index: -1
+SimboloTerraSpento
+  rotate: false
+  xy: 2208, 117
+  size: 154, 115
+  orig: 154, 115
+  offset: 0, 0
+  index: -1

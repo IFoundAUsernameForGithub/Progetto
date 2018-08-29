@@ -1,0 +1,68 @@
+
+pack8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Anelli
+  rotate: false
+  xy: 0, 236
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+Bracciali
+  rotate: false
+  xy: 0, 118
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+Busto
+  rotate: false
+  xy: 234, 236
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+Cappelli
+  rotate: false
+  xy: 468, 236
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+Collane
+  rotate: false
+  xy: 0, 0
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+Guanti
+  rotate: false
+  xy: 234, 118
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+Pantaloni
+  rotate: false
+  xy: 468, 118
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+Scarpe
+  rotate: false
+  xy: 234, 0
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+Talismani
+  rotate: false
+  xy: 468, 0
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1

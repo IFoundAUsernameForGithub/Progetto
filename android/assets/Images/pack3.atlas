@@ -1,0 +1,117 @@
+
+pack3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Lato
+  rotate: false
+  xy: 0, 0
+  size: 521, 1280
+  orig: 521, 1280
+  offset: 0, 0
+  index: -1
+SfondoVita
+  rotate: false
+  xy: 523, 796
+  size: 716, 484
+  orig: 716, 484
+  offset: 0, 0
+  index: -1
+LatoSotto
+  rotate: false
+  xy: 523, 472
+  size: 322, 322
+  orig: 322, 322
+  offset: 0, 0
+  index: -1
+BottoneFight
+  rotate: false
+  xy: 847, 654
+  size: 328, 140
+  orig: 328, 140
+  offset: 0, 0
+  index: -1
+BottoneEasy
+  rotate: false
+  xy: 847, 559
+  size: 352, 93
+  orig: 352, 93
+  offset: 0, 0
+  index: -1
+BottoneEasyPremuto
+  rotate: false
+  xy: 847, 464
+  size: 352, 93
+  orig: 352, 93
+  offset: 0, 0
+  index: -1
+StatSotto
+  rotate: false
+  xy: 523, 325
+  size: 262, 145
+  orig: 262, 145
+  offset: 0, 0
+  index: -1
+BottoneNormal
+  rotate: false
+  xy: 787, 381
+  size: 352, 81
+  orig: 352, 81
+  offset: 0, 0
+  index: -1
+BottoneHard
+  rotate: false
+  xy: 787, 300
+  size: 352, 79
+  orig: 352, 79
+  offset: 0, 0
+  index: -1
+BottoneNormalPremuto
+  rotate: false
+  xy: 523, 217
+  size: 352, 81
+  orig: 352, 81
+  offset: 0, 0
+  index: -1
+BottoneHardPremuto
+  rotate: false
+  xy: 523, 136
+  size: 352, 79
+  orig: 352, 79
+  offset: 0, 0
+  index: -1
+LatoAcqua
+  rotate: false
+  xy: 877, 232
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+LatoAria
+  rotate: false
+  xy: 523, 68
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+LatoFuoco
+  rotate: false
+  xy: 877, 164
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+LatoTempo
+  rotate: false
+  xy: 965, 232
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+LatoTerra
+  rotate: false
+  xy: 523, 0
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1

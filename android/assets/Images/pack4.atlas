@@ -1,0 +1,19 @@
+
+pack4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Intro
+  rotate: false
+  xy: 0, 0
+  size: 768, 1280
+  orig: 768, 1280
+  offset: 0, 0
+  index: -1
+Bianco
+  rotate: false
+  xy: 770, 1152
+  size: 72, 128
+  orig: 72, 128
+  offset: 0, 0
+  index: -1

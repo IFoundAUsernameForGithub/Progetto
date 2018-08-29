@@ -1,0 +1,187 @@
+
+pack2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Sottomappa
+  rotate: false
+  xy: 0, 229
+  size: 720, 1078
+  orig: 720, 1078
+  offset: 0, 0
+  index: -1
+MostriMondoTerra
+  rotate: false
+  xy: 0, 77
+  size: 1500, 150
+  orig: 1500, 150
+  offset: 0, 0
+  index: -1
+IconeSpente
+  rotate: false
+  xy: 0, 0
+  size: 630, 75
+  orig: 630, 75
+  offset: 0, 0
+  index: -1
+PulsanteArkai
+  rotate: false
+  xy: 632, 1
+  size: 180, 74
+  orig: 180, 74
+  offset: 0, 0
+  index: -1
+PulsanteEtere
+  rotate: false
+  xy: 814, 1
+  size: 180, 74
+  orig: 180, 74
+  offset: 0, 0
+  index: -1
+PulsanteSoldi
+  rotate: false
+  xy: 996, 1
+  size: 180, 74
+  orig: 180, 74
+  offset: 0, 0
+  index: -1
+PulsanteDescrizione
+  rotate: false
+  xy: 1178, 5
+  size: 119, 70
+  orig: 119, 70
+  offset: 0, 0
+  index: -1
+HpSotto
+  rotate: false
+  xy: 1299, 58
+  size: 108, 17
+  orig: 108, 17
+  offset: 0, 0
+  index: -1
+IndicatoreStatus
+  rotate: false
+  xy: 1502, 366
+  size: 462, 941
+  orig: 462, 941
+  offset: 0, 0
+  index: -1
+DescrizioneEquip
+  rotate: false
+  xy: 722, 236
+  size: 524, 128
+  orig: 524, 128
+  offset: 0, 0
+  index: -1
+DescrizioneRune
+  rotate: false
+  xy: 1248, 230
+  size: 302, 134
+  orig: 302, 134
+  offset: 0, 0
+  index: -1
+ShopIcona
+  rotate: false
+  xy: 1502, 70
+  size: 144, 158
+  orig: 144, 158
+  offset: 0, 0
+  index: -1
+IconaEquip
+  rotate: false
+  xy: 1552, 263
+  size: 140, 101
+  orig: 140, 101
+  offset: 0, 0
+  index: -1
+MostriMondoBloccato
+  rotate: false
+  xy: 1648, 111
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+IconaOpzioni
+  rotate: false
+  xy: 1694, 263
+  size: 140, 101
+  orig: 140, 101
+  offset: 0, 0
+  index: -1
+IconaRune
+  rotate: false
+  xy: 1648, 8
+  size: 140, 101
+  orig: 140, 101
+  offset: 0, 0
+  index: -1
+IconaShop
+  rotate: false
+  xy: 1790, 8
+  size: 140, 101
+  orig: 140, 101
+  offset: 0, 0
+  index: -1
+Indicatore
+  rotate: false
+  xy: 1800, 117
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+Freccia
+  rotate: false
+  xy: 1836, 266
+  size: 86, 98
+  orig: 86, 98
+  offset: 0, 0
+  index: -1
+ShopSopra
+  rotate: false
+  xy: 722, 1095
+  size: 720, 212
+  orig: 720, 212
+  offset: 0, 0
+  index: -1
+Sopramappa
+  rotate: false
+  xy: 722, 900
+  size: 720, 193
+  orig: 720, 193
+  offset: 0, 0
+  index: -1
+OggettoShopDoppio
+  rotate: false
+  xy: 722, 726
+  size: 720, 172
+  orig: 720, 172
+  offset: 0, 0
+  index: -1
+OggettoShopSingolo
+  rotate: false
+  xy: 722, 552
+  size: 720, 172
+  orig: 720, 172
+  offset: 0, 0
+  index: -1
+IconaStatus
+  rotate: false
+  xy: 722, 449
+  size: 140, 101
+  orig: 140, 101
+  offset: 0, 0
+  index: -1
+IndicatoreEquip
+  rotate: false
+  xy: 864, 434
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+PulsanteRune
+  rotate: false
+  xy: 982, 464
+  size: 146, 86
+  orig: 146, 86
+  offset: 0, 0
+  index: -1

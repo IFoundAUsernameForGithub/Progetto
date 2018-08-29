@@ -1,0 +1,12 @@
+
+pack7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+OverworldTerra
+  rotate: false
+  xy: 0, 0
+  size: 720, 2720
+  orig: 720, 2720
+  offset: 0, 0
+  index: -1

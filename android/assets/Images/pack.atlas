@@ -1,0 +1,299 @@
+
+pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RuneSprite
+  rotate: false
+  xy: 0, 412
+  size: 1950, 1040
+  orig: 1950, 1040
+  offset: 0, 0
+  index: -1
+Sfondoterra
+  rotate: false
+  xy: 1952, 172
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+Backgroundterra
+  rotate: false
+  xy: 0, 0
+  size: 720, 410
+  orig: 720, 410
+  offset: 0, 0
+  index: -1
+Barrahpterra
+  rotate: false
+  xy: 722, 371
+  size: 720, 39
+  orig: 720, 39
+  offset: 0, 0
+  index: -1
+Barrastaminasopraterra
+  rotate: false
+  xy: 2674, 870
+  size: 57, 582
+  orig: 57, 582
+  offset: 0, 0
+  index: -1
+Barravitasopraterra
+  rotate: false
+  xy: 2674, 286
+  size: 57, 582
+  orig: 57, 582
+  offset: 0, 0
+  index: -1
+Barrastaminasottoterra
+  rotate: false
+  xy: 2733, 929
+  size: 47, 523
+  orig: 47, 523
+  offset: 0, 0
+  index: -1
+Barravitasottoterra
+  rotate: false
+  xy: 2733, 470
+  size: 31, 457
+  orig: 31, 457
+  offset: 0, 0
+  index: -1
+Aura
+  rotate: false
+  xy: 722, 127
+  size: 243, 242
+  orig: 243, 242
+  offset: 0, 0
+  index: -1
+AuraAcqua
+  rotate: false
+  xy: 967, 127
+  size: 243, 242
+  orig: 243, 242
+  offset: 0, 0
+  index: -1
+AuraAria
+  rotate: false
+  xy: 1212, 127
+  size: 243, 242
+  orig: 243, 242
+  offset: 0, 0
+  index: -1
+AuraFuoco
+  rotate: false
+  xy: 1457, 168
+  size: 243, 242
+  orig: 243, 242
+  offset: 0, 0
+  index: -1
+AuraTempo
+  rotate: false
+  xy: 1702, 168
+  size: 243, 242
+  orig: 243, 242
+  offset: 0, 0
+  index: -1
+AuraOstacoloAcqua
+  rotate: false
+  xy: 2782, 1302
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AuraOstacoloAcquaDoppio
+  rotate: false
+  xy: 2782, 1150
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AuraOstacoloAria
+  rotate: false
+  xy: 2782, 998
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+OstacoloAcqua
+  rotate: false
+  xy: 722, 15
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+OstacoloAcquaDoppio
+  rotate: false
+  xy: 834, 15
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+OstacoloAria
+  rotate: false
+  xy: 946, 15
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+OstacoloAriaDoppio
+  rotate: false
+  xy: 1058, 15
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+OstacoloFuoco
+  rotate: false
+  xy: 1170, 15
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+OstacoloFuocoDoppio
+  rotate: false
+  xy: 1282, 15
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+AuraOstacoloAriaDoppio
+  rotate: false
+  xy: 2782, 846
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AuraOstacoloFuoco
+  rotate: false
+  xy: 2766, 694
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AuraOstacoloFuocoDoppio
+  rotate: false
+  xy: 2766, 542
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AuraOstacoloPremuto
+  rotate: false
+  xy: 2766, 390
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AuraTerra
+  rotate: false
+  xy: 2733, 146
+  size: 243, 242
+  orig: 243, 242
+  offset: 0, 0
+  index: -1
+Miss
+  rotate: false
+  xy: 1457, 116
+  size: 158, 50
+  orig: 158, 50
+  offset: 0, 0
+  index: -1
+AuraOstacoloPremutoDoppio
+  rotate: false
+  xy: 1617, 16
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AuraOstacoloTempo
+  rotate: false
+  xy: 1769, 16
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AuraOstacoloTempoDoppio
+  rotate: false
+  xy: 1921, 16
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AuraOstacoloTerra
+  rotate: false
+  xy: 2073, 20
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AuraOstacoloTerraDoppio
+  rotate: false
+  xy: 2225, 20
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+OstacoloPremuto
+  rotate: false
+  xy: 2377, 60
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+OstacoloPremutoDoppio
+  rotate: false
+  xy: 2489, 60
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+OstacoloTempo
+  rotate: false
+  xy: 2601, 60
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+OstacoloTempoDoppio
+  rotate: false
+  xy: 2713, 34
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+OstacoloTerra
+  rotate: false
+  xy: 2825, 34
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+Nice
+  rotate: false
+  xy: 2377, 9
+  size: 116, 49
+  orig: 116, 49
+  offset: 0, 0
+  index: -1
+Bad
+  rotate: false
+  xy: 2495, 10
+  size: 111, 48
+  orig: 111, 48
+  offset: 0, 0
+  index: -1
+OstacoloTerraDoppio
+  rotate: false
+  xy: 1394, 4
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+Ok
+  rotate: false
+  xy: 2608, 10
+  size: 68, 48
+  orig: 68, 48
+  offset: 0, 0
+  index: -1

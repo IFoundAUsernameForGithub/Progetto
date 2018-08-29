@@ -1,0 +1,73 @@
+
+pack6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Golemacquasprite
+  rotate: false
+  xy: 0, 2244
+  size: 1545, 710
+  orig: 1545, 710
+  offset: 0, 0
+  index: -1
+Golemariasprite
+  rotate: false
+  xy: 0, 1532
+  size: 1545, 710
+  orig: 1545, 710
+  offset: 0, 0
+  index: -1
+Golemfuocosprite
+  rotate: false
+  xy: 0, 820
+  size: 1545, 710
+  orig: 1545, 710
+  offset: 0, 0
+  index: -1
+Golemtemposprite
+  rotate: false
+  xy: 0, 108
+  size: 1545, 710
+  orig: 1545, 710
+  offset: 0, 0
+  index: -1
+TunakCodaSprite
+  rotate: false
+  xy: 1547, 2848
+  size: 1368, 106
+  orig: 1368, 106
+  offset: 0, 0
+  index: -1
+TunakEmpCodaSprite
+  rotate: false
+  xy: 0, 0
+  size: 1368, 106
+  orig: 1368, 106
+  offset: 0, 0
+  index: -1
+
+pack62.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Golemterrasprite
+  rotate: false
+  xy: 0, 1152
+  size: 1545, 710
+  orig: 1545, 710
+  offset: 0, 0
+  index: -1
+TunakEmpSprite
+  rotate: false
+  xy: 0, 576
+  size: 1620, 574
+  orig: 1620, 574
+  offset: 0, 0
+  index: -1
+TunakSprite
+  rotate: false
+  xy: 0, 0
+  size: 1620, 574
+  orig: 1620, 574
+  offset: 0, 0
+  index: -1

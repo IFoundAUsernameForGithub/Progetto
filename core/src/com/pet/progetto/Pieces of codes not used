@@ -1,0 +1,70 @@
+Pieces of code not used:
+GameState random obstacles{
+//TODO GENERARE TIENI PREMUTI
+		timerStone += dt;
+		
+		if(oneBlocked.getEnd() > 0){
+			oneBlocked.setTimer(dt);
+		}
+		if(twoBlocked.getEnd() > 0){
+			twoBlocked.setTimer(dt);
+		}
+		
+		if(timerStone > timerlimit ){
+			if((oneBlocked.getEnd() < timerlimit && twoBlocked.getEnd() < timerlimit)){
+				int random = MathUtils.random(-10,14);
+				if(random >= 0){
+					random = random%5;
+					ObstacleQueue.add( new ObstaTime( new Obstacle(10,random,"Terra",false), TIMERLIMIT) );
+				}
+				else if( random > -6){
+					random = - (random + 1);
+					int random1 = MathUtils.random(0,4);
+					while(random1==random || (random1==0 && random==1) || (random1==1 && random==0)|| (random1==4 && random==3) || (random1==3 && random==4)){
+						random1 = MathUtils.random(0,4);
+					}
+					
+					ObstacleQueue.add( new ObstaTime( new Obstacle(10,random,"Terra",true), TIMERLIMIT) );
+					ObstacleQueue.add( new ObstaTime( new Obstacle(10,random1,"Terra",true), TIMERLIMIT) );
+					
+				}
+				else{
+					random = - (random + 6);
+					int random3 = MathUtils.random(9,14);
+					int random4 = MathUtils.random(0,4);
+					if(random4 < 2){
+						for(int j = 0; j < random3; j++){
+							ObstacleQueue.add( new ObstaTime( new Obstacle(10,random,"Premuto",false), TIMERLIMIT*j) );
+						}
+					}
+					else{
+						int random6 = MathUtils.random(0,4);
+						while(random6==random || (random6==0 && random==1) || (random6==1 && random==0)|| (random6==4 && random==3) || (random6==3 && random==4)){
+							random6 = MathUtils.random(0,4);
+						}
+						for(int j = 1; j < random3; j++){
+							ObstacleQueue.add( new ObstaTime( new Obstacle(10,random,"Premuto",true), TIMERLIMIT*j) );
+							ObstacleQueue.add( new ObstaTime( new Obstacle(10,random6,"Premuto",true), TIMERLIMIT*j) );
+						}
+						oneBlocked = new LineBlocked(random, TIMERLIMIT, TIMERLIMIT*(random3 - 1));
+						twoBlocked = new LineBlocked(random6, TIMERLIMIT, TIMERLIMIT*(random3 - 1));
+					}
+					
+				}
+			}
+			timerStone = 0;
+			//consiglio mettere 13 al posto di 0 e cambiare random%5==precrandom in random%5!=precrandom
+			if(MathUtils.random(0,15)>5){
+				timerlimit = 0.25f;
+			}
+			else{
+				int random6=MathUtils.random(0,13);
+				if(random6 > 4){
+					timerlimit = 0.5f;
+				}
+				else{
+					timerlimit = 0.5f*((random6%2)+1);
+				}
+			}
+		}
+	}
